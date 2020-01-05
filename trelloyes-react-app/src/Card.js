@@ -1,6 +1,6 @@
 
 import React from 'react';
-import './Card.css';
+// import './Card.css';
 
 // why not use? --> class Card extends React.Component {
 export default function Card(props) {
